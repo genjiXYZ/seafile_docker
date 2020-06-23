@@ -1,1 +1,0 @@
-# seafile_docker
